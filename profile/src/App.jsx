@@ -15,7 +15,7 @@ function App() {
       <LanguageProvider>
         <div className="App">
           <Header />
-          <main style={{marginTop:45}}>
+          <main>
             <Hero />
             <About />
             <Skills />
